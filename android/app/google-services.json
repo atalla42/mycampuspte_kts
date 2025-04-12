@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814207571102",
+    "project_id": "mycampuspte-kts",
+    "storage_bucket": "mycampuspte-kts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814207571102:android:fbcfd4ab826a70a9cd178f",
+        "android_client_info": {
+          "package_name": "com.example.mycampuspte_kts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASM7aM7mJIlwnd_spiWXoV45VWPUj8OOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
